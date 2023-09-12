@@ -50,17 +50,18 @@ El documento fue elaborado en el marco del proyecto [Plan A: Territorios Resilie
 Las autoras quisieran agradecer a las siguientes personas (en orden alfabético), quienes proporcionaron insumos valiosos durante la elaboración de este documento:   
 
 - Alex Henry Campos Castro, Director Regional Región Pacífico Central, MIDEPLAN  
-- Carlos Borge Carvajal, Especialista en Planificación Territorial CCT \
-- Jorge Arturo Arrieta Solís, Director Regional Región Huetar Norte, MIDEPLAN \
-- Jorge Castillo Sánchez, funcionario de la Dirección Región Central, MIDEPLAN \
-- Juan Luis Céspedes Araya, Director Regional Región Huetar Atlántica, MIDEPLAN - Laura Sandí Ureña, Directora Regional Región Brunca, MIDEPLAN \
-- Libny Fernández Quesada, funcionaria de la Dirección Región Central, MIDEPLAN \
-- Liliana Quesada Saravia, Especialista en Género CCT \
-- Lilly Edgerton Picado, Especialista en Comunicación y Procesos Participativos CCT \
-- María del Milagro Muñoz Bonilla, Directora Área Planificación Regional MIDEPLAN \
-- Mauricio Castro Salazar, Coordinador CCT Mauro Antonio Angulo Ruiz, Director Regional Región Chorotega, MIDEPLAN \
-- Patricia Campos Mesén, Directora DCC MINAE Stephanie Gutierrez, funcionaria de la Dirección Región Central, MIDEPLAN \
-- Verónica Vargas Chacón, Especialista en SIG CCT \
+- Carlos Borge Carvajal, Especialista en Planificación Territorial CCT
+- Jorge Arturo Arrieta Solís, Director Regional Región Huetar Norte, MIDEPLAN
+- Jorge Castillo Sánchez, funcionario de la Dirección Región Central, MIDEPLAN
+- Juan Luis Céspedes Araya, Director Regional Región Huetar Atlántica, MIDEPLAN
+- Laura Sandí Ureña, Directora Regional Región Brunca, MIDEPLAN
+- Libny Fernández Quesada, funcionaria de la Dirección Región Central, MIDEPLAN
+- Liliana Quesada Saravia, Especialista en Género CCT
+- Lilly Edgerton Picado, Especialista en Comunicación y Procesos Participativos CCT
+- María del Milagro Muñoz Bonilla, Directora Área Planificación Regional MIDEPLAN
+- Mauricio Castro Salazar, Coordinador CCT Mauro Antonio Angulo Ruiz, Director Regional Región Chorotega, MIDEPLAN
+- Patricia Campos Mesén, Directora DCC MINAE Stephanie Gutierrez, funcionaria de la Dirección Región Central, MIDEPLAN
+- Verónica Vargas Chacón, Especialista en SIG CCT
 - Victoria Arce Anchía, Área Planificación Regional MIDEPLAN
 
 ## *Referencias*
